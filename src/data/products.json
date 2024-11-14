@@ -1,0 +1,214 @@
+{
+    "collection": {
+        "popular": [
+            {
+                "image": "/img/illustrations/jollof-rice.png",
+                "title": "Jollof Rice",
+                "price": "4000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Classic Nigerian jollof rice with tomatoes, onions, and peppers."
+            },
+            {
+                "image": "/img/illustrations/pounded-yam.png",
+                "title": "Pounded Yam & Egusi",
+                "price": "14000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Smooth pounded yam served with a rich, spicy egusi soup."
+            },
+            {
+                "image": "/img/illustrations/salad.png",
+                "title": "Nigerian Salad",
+                "price": "9000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "A refreshing mix of cabbage, carrots, eggs, and baked beans.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            },
+            {
+                "image": "/img/menu/9.jpg",
+                "title": "Pepper Fish",
+                "price": "4000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Crispy fish fillet coated in spicy Nigerian pepper sauce.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+            },
+            {
+                "image": "/img/menu/5.jpg",
+                "title": "Plantain & Beans",
+                "price": "6000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Fried plantain served with hearty beans porridge.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            },
+            {
+                "image": "/img/menu/4.jpg",
+                "title": "Goat Meat Stew",
+                "price": "11000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Tender goat meat in a richly spiced tomato stew."
+            }
+        ],
+        "bestseller": [
+            {
+                "image": "/img/menu/6.jpg",
+                "title": "Pepper Fish",
+                "price": "4000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Crispy fish fillet coated in spicy Nigerian pepper sauce.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+            },
+            {
+                "image": "/img/menu/7.jpg",
+                "title": "Plantain & Beans",
+                "price": "6000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Fried plantain served with hearty beans porridge.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            },
+            {
+                "image": "/img/menu/8.jpg",
+                "title": "Nigerian Salad",
+                "price": "9000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "A refreshing mix of cabbage, carrots, eggs, and baked beans.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            },
+            {
+                "image": "/img/menu/11.jpg",
+                "title": "Goat Meat Stew",
+                "price": "14000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Tender goat meat in a richly spiced tomato stew."
+            },
+            {
+                "image": "/img/menu/10.jpg",
+                "title": "Pounded Yam & Egusi",
+                "price": "14000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Smooth pounded yam served with a rich, spicy egusi soup."
+            },
+            {
+                "image": "/img/menu/9.jpg",
+                "title": "Pepper Fish",
+                "price": "9000",
+                "currency": "₦",
+                "rating": 5,
+                "text": "Crispy fish fillet coated in spicy Nigerian pepper sauce.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+            }
+        ]
+    },
+    "items": [
+        {
+            "image": "/img/menu/1.jpg",
+            "title": "Pepper Fish",
+            "price": "14000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Crispy fish fillet coated in spicy Nigerian pepper sauce."
+        },
+        {
+            "image": "/img/menu/2.jpg",
+            "title": "Nigerian Salad",
+            "price": "9000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "A refreshing mix of cabbage, carrots, eggs, and baked beans.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/3.jpg",
+            "title": "Pounded Yam & Egusi",
+            "price": "14000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Smooth pounded yam served with a rich, spicy egusi soup."
+        },
+        {
+            "image": "/img/menu/4.jpg",
+            "title": "Goat Meat Stew",
+            "price": "11000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Tender goat meat in a richly spiced tomato stew."
+        },
+        {
+            "image": "/img/menu/5.jpg",
+            "title": "Plantain & Beans",
+            "price": "6000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Fried plantain served with hearty beans porridge.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/6.jpg",
+            "title": "Pounded Yam & Egusi",
+            "price": "14000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Smooth pounded yam served with a rich, spicy egusi soup."
+        },
+        {
+            "image": "/img/menu/7.jpg",
+            "title": "Goat Meat Stew",
+            "price": "11000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Tender goat meat in a richly spiced tomato stew."
+        },
+        {
+            "image": "/img/menu/8.jpg",
+            "title": "Nigerian Salad",
+            "price": "6000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "A refreshing mix of cabbage, carrots, eggs, and baked beans.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/9.jpg",
+            "title": "Pepper Fish",
+            "price": "4000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Crispy fish fillet coated in spicy Nigerian pepper sauce.",
+            "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+        },
+        {
+            "image": "/img/menu/10.jpg",
+            "title": "Pounded Yam & Egusi",
+            "price": "6000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Smooth pounded yam served with a rich, spicy egusi soup.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/11.jpg",
+            "title": "Jollof Rice",
+            "price": "7000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Classic Nigerian jollof rice with tomatoes, onions, and peppers."
+        },
+        {
+            "image": "/img/menu/12.jpg",
+            "title": "Goat Meat Stew",
+            "price": "12000",
+            "currency": "₦",
+            "rating": 5,
+            "text": "Tender goat meat in a richly spiced tomato stew."
+        }
+    ]
+}

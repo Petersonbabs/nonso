@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "num": "01",
+            "title": "Instagram",
+            "text": "<a href=`https://www.instagram.com/nonsos_kitchen?igsh=MWliaW5wcjJhejUxNw==` className=`underline link`>Nonso Kitchen</a>"
+        },
+        {
+            "num": "02",
+            "title": "Call",
+            "text": "+234-706-7668-117"
+        },
+        {
+            "num": "03",
+            "title": "Write",
+            "text": "Chinonsokitchen@gmail.com"
+        }
+    ]
+}

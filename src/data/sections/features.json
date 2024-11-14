@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "num": "01",
+            "title": "Homemade Meal",
+            "text": "Enjoy the warmth of home-cooked Nigerian meals made with traditional recipes and fresh, locally sourced ingredients. Perfect for when you crave the authentic taste of home."
+        },
+        {
+            "num": "02",
+            "title": "Delivery 🇳🇬 Meals to Your Doorstep",
+            "text": "Bringing the essence of Nigeria right to you! Our reliable delivery service ensures you can savor your favorite Nigerian dishes wherever you are, hassle-free and hot."
+        },
+        {
+            "num": "03",
+            "title": "The Taste of Nigerian Cuisine",
+            "text": "Experience the vibrant flavors of Nigeria with each meal. From spicy Jollof rice to comforting Egusi soup, we bring you the best of Nigerian cuisine to satisfy every craving."
+        },
+        {
+            "num": "04",
+            "title": "The Highest Standards of Service",
+            "text": "Quality is our commitment. From sourcing ingredients to delivering your meal, every step meets the highest standards to guarantee you delicious, safe, and satisfying food."
+        }
+    ]
+}

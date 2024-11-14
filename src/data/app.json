@@ -1,0 +1,76 @@
+{
+    "settings": {
+        "siteName": "Nonso Kitchen",
+        "siteDescription": "",
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mapbox": {
+            "AccessToken": "*",
+            "style": "mapbox://styles/mapbox/light-v11",
+            "zoom": 15,
+            "long": -79.394900,
+            "lat": 43.643102
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/ui/nonso-logo-transparent.svg",
+            "alt": "Logo"
+        },
+        "menu": [
+           
+            {
+                "label": "Shop",
+                "link": "/shop"
+            },
+            {
+                "label": "Contact",
+                "link": "/contact"
+              
+            }
+        ]
+    },
+    "footer": {
+        "copy": "© 2024 Nonso Kitchen. All rights reserved."
+    },
+    "social": [
+        
+        {
+            "link": "https://www.instagram.com/nonsos_kitchen?igsh=MWliaW5wcjJhejUxNw==",
+            "title": "Instagram",
+            "icon": "fab fa-instagram"
+        }
+    ],
+    "instagram": [
+        {
+            "image": "/img/instagram/1.jpg",
+            "title": "Image #1",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/2.jpg",
+            "title": "Image #2",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/3.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/4.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/5.jpg",
+            "title": "Image #5",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/6.jpg",
+            "title": "Image #6",
+            "link": "https://instagram.com/"
+        }
+    ]
+}

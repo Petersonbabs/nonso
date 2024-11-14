@@ -1,0 +1,32 @@
+{
+    "total": 3,
+    "items": [
+        {
+            "id": "001",
+            "title": "Jollof Rice",
+            "image": "/img/illustrations/jollof-rice.png",
+            "description": "Delicious Nigerian Jollof rice cooked with tomatoes, spices, and served with fried plantains and chicken.",
+            "quantity": 1,
+            "price": 2500,
+            "currency": "₦"
+        },
+        {
+            "id": "002",
+            "title": "Pounded Yam with Egusi",
+            "image": "/img/illustrations/pounded-yam.png",
+            "description": "Smooth pounded yam served with rich and flavorful egusi soup, accompanied by assorted meats and fish.",
+            "quantity": 5,
+            "price": 30000,
+            "currency": "₦"
+        },
+        {
+            "id": "003",
+            "title": "Vegetable Salad",
+            "image": "/img/illustrations/salad.png",
+            "description": "Fresh salad made with tomatoes, lettuce, cucumbers, and a touch of creamy dressing.",
+            "quantity": 1,
+            "price": 1500,
+            "currency": "₦"
+        }
+    ]
+}

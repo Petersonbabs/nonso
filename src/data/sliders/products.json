@@ -1,0 +1,9 @@
+{
+    "title": "Our Most <span>Popular</span> Dishes",
+    "description": "Discover our customers' favorite meals, crafted to satisfy every craving.",
+    "button": {
+        "link": "/menu",
+        "icon": "/img/ui/icons/menu.svg",
+        "label": "View Full Menu"
+    }
+}

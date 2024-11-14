@@ -1,0 +1,19 @@
+{
+    "image": {
+       "url": "/img/illustrations/girl.png",
+       "alt": "girl"
+    },
+    "subtitle": "Hi, new friend!",
+    "title": "We <span>cook</span> the <br> best meal, <br>for your belly!",
+    "description": "Select, Order, Then we deliver 😋",
+    "button1": {
+        "link": "/products",
+        "icon": "/img/ui/icons/menu.svg",
+        "label": "Our menu"
+    },
+    "button2": {
+        "link": "/about",
+        "icon": "/img/ui/icons/arrow.svg",
+        "label": "About us"
+    }
+}

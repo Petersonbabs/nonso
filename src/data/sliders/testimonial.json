@@ -1,0 +1,39 @@
+{
+    "title": "Customer <span>Reviews</span>",
+    "description": "See what our customers are saying about their favorite meals and delivery experiences.",
+    "button": {
+        "link": "/reviews",
+        "icon": "/img/ui/icons/dialog.svg",
+        "label": "Read All Reviews"
+    },
+    "items": [
+        {
+            "title": "Delicious and Fresh!",
+            "name": "Chinwe Okoro",
+            "rating": 5,
+            "image": "/img/faces/male.webp",
+            "text": "The food was absolutely fantastic! Fresh ingredients, and the flavors were spot on. I’ll definitely be ordering again!"
+        },
+        {
+            "title": "My Go-To for Lunch",
+            "name": "Bayo Adeyemi",
+            "rating": 5,
+            "image": "/img/faces/male-2.jpg",
+            "text": "I order from here almost every day. Great variety and always delivered hot. Highly recommend to anyone with a busy schedule!"
+        },
+        {
+            "title": "Quick and Reliable",
+            "name": "Yetunde Ige",
+            "rating": 5,
+            "image": "/img/faces/female-2.jpg",
+            "text": "Amazing service, and my order always arrives on time. Perfect for those days when I don't have time to cook."
+        },
+        {
+            "title": "My Favorite Place to Order!",
+            "name": "Zainab Anike",
+            "rating": 5,
+            "image": "/img/faces/female.webp",
+            "text": "I've tried so many dishes, and each one is better than the last. Nonso always impresses with quality and taste!"
+        }
+    ]
+}

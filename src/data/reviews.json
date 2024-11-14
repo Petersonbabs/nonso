@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "title": "Delicious and satisfying!",
+            "name": "Emeka Okafor",
+            "rating": 5,
+            "image": "/img/faces/male.webp",
+            "text": "The meals are always fresh and full of flavor. I love the variety of Nigerian dishes they offer. Definitely my go-to place for ordering lunch and dinner."
+        },
+        {
+            "title": "Convenient for my lunch breaks",
+            "name": "Ifeanyi Johnson",
+            "rating": 5,
+            "image": "/img/faces/male-2.jpg",
+            "text": "Nonso Kitchen has made my lunch breaks so much easier. The delivery is always quick, and the food is delicious. Highly recommend for busy professionals!"
+        },
+        {
+            "title": "Excellent customer service",
+            "name": "Victoria Oladele",
+            "rating": 5,
+            "image": "/img/faces/female-2.jpg",
+            "text": "Not only is the food great, but their customer service is top-notch. They’re always responsive and ready to help with any issues. I appreciate the personal touch they provide."
+        },
+        {
+            "title": "Nonso Kitchen is my favorite!",
+            "name": "Adesuwa Agbaje",
+            "rating": 5,
+            "image": "/img/faces/female.jpg",
+            "text": "I can’t get enough of the jollof rice and grilled chicken. This service has become a staple in my weekly routine. So glad I found Nonso Kitchen!"
+        },
+        {
+            "title": "High-quality, tasty meals",
+            "name": "Kemi Ogunleye",
+            "rating": 5,
+            "image": "/img/faces/1.jpg",
+            "text": "The quality of the food is amazing. Every meal I’ve ordered has tasted fantastic and feels homemade. It’s like having my mom's cooking delivered!"
+        },
+        {
+            "title": "Lunch made easy",
+            "name": "Bayo Olagunju",
+            "rating": 5,
+            "image": "/img/faces/female-2.jpg",
+            "text": "Ordering lunch has never been this easy. The platform is user-friendly, and I always get my food on time. Perfect for my busy schedule."
+        },
+        {
+            "title": "Great experience",
+            "name": "Funmi Adeyemi",
+            "rating": 5,
+            "image": "/img/faces/3.jpg",
+            "text": "I've ordered multiple times, and each time has been a great experience. Food is flavorful, portions are good, and delivery is always prompt."
+        },
+        {
+            "title": "Love their meal options!",
+            "name": "Tunde Bakare",
+            "rating": 5,
+            "image": "/img/faces/male-2.jpg",
+            "text": "They have a fantastic selection of Nigerian dishes. I can always find something new and exciting to try. Highly recommended for anyone looking for great food."
+        }
+    ]
+}
