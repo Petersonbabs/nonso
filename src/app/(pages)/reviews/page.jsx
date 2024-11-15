@@ -6,7 +6,7 @@ import ReviewsData from "@data/reviews.json";
 
 import PageBanner from "@components/PageBanner";
 import CallToActionSection from "@components/sections/CallToAction";
-import CallToActionTwoSection from "../../_components/sections/CallToActionTwo";
+import CallToActionSection from "../../_components/sections/CallToAction";
 
 const ReviewsMasonry = dynamic( () => import("@components/reviews/ReviewsMasonry"), { ssr: false } );
 
@@ -43,7 +43,7 @@ const Reviews1 = () => {
       </section>
       {/* reviews end */}
 
-      <CallToActionTwoSection />
+      <CallToActionSection />
     </>
   );
 }

@@ -8,7 +8,7 @@ import PageBanner from "@components/PageBanner";
 import ReviewItem from "@components/reviews/ReviewItem";
 import ProductImage from "@components/products/ProductImage";
 import ProductButtons from "@components/products/ProductButtons";
-import CallToActionTwoSection from "@components/sections/CallToActionTwo";
+import CallToActionSection from "@components/sections/CallToAction";
 
 const ProductsSlider = dynamic( () => import("@components/sliders/Products"), { ssr: false } );
 const ProductTabs = dynamic( () => import("@components/products/ProductTabs"), { ssr: false } );
@@ -216,7 +216,7 @@ const Products = () => {
         itemType={'product'} 
       />
 
-      <CallToActionTwoSection />
+      <CallToActionSection />
     </>
   );
 }

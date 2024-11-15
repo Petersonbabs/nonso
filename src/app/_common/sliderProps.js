@@ -62,7 +62,7 @@ export const SliderProps = {
       },
     },
   },
-  shortMenuSliderTwo4: {
+  shortMenuSlider4: {
     slidesPerView: 4,
     spaceBetween: 30,
     parallax: true,
@@ -104,7 +104,7 @@ export const SliderProps = {
       },
     },
   },
-  shortMenuSliderTwo3: {
+  shortMenuSlider3: {
     slidesPerView: 3,
     spaceBetween: 30,
     parallax: true,
