@@ -48,5 +48,5 @@ async function FilteredBlogPosts( { items, columns } ) {
             }
         </>
     );
-};
+}
 export default FilteredBlogPosts;

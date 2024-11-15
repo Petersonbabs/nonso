@@ -1,4 +1,4 @@
-import React from "react";
+
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
@@ -31,5 +31,5 @@ async function Home2() {
       <CallToActionSection />
     </>
   );
-};
+}
 export default Home2;

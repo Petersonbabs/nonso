@@ -15,7 +15,7 @@ export const ScrollAnimation = () => {
     const miniCart = document.querySelector('.sb-minicart');
 
     if ( topPanel != undefined ) {
-        window.addEventListener("scroll", (e) => {
+        window.addEventListener("scroll", () => {
             if( window.scrollY > 10 ) {
                 topPanel.classList.add('sb-scroll');
                 infoBar.classList.add('sb-scroll');

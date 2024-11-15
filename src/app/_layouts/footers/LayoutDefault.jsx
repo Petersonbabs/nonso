@@ -2,10 +2,10 @@
 
 import Link from "next/link";
 import AppData from "@data/app.json";
-import { usePathname } from 'next/navigation';
+// import { usePathname } from 'next/navigation';
 
 const DefaultFooter = () => {
-  const asPath = usePathname();
+//   const asPath = usePathname();
 
   return (
     <>
@@ -29,5 +29,5 @@ const DefaultFooter = () => {
         {/* footer end */}
     </>
   );
-};
+}
 export default DefaultFooter;

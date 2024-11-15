@@ -1,6 +1,6 @@
 import Data from "@data/sections/call-to-action.json";
 
-const CallToActionSection = ( { bg } ) => {
+const CallToActionSection = ( ) => {
   return (
     <>
         {/* call to action */}
@@ -38,6 +38,6 @@ const CallToActionSection = ( { bg } ) => {
         {/* call to action end */}
     </>
   );
-};
+}
 
 export default CallToActionSection;

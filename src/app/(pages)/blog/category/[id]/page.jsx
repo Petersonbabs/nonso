@@ -61,7 +61,7 @@ async function BlogCategory( { params } ) {
       <PopularPosts posts={populars} />
     </>
   );
-};
+}
 export default BlogCategory;
 
 export async function generateStaticParams() {

@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 import FaqData from "@data/faq.json";
@@ -40,5 +40,5 @@ const FAQ = () => {
       <CallToActionSection />
     </>
   );
-};
+}
 export default FAQ;

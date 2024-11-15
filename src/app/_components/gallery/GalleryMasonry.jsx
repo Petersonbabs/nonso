@@ -34,6 +34,6 @@ const GalleryMasonry = ({ items, layout }) => {
         </div>
       </>
     );
-};
+}
 export default GalleryMasonry;
   

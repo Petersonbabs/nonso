@@ -50,6 +50,6 @@ const AboutSection = () => {
             {/* features end */}
         </>
     );
-};
+}
 
 export default AboutSection;

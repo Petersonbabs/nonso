@@ -24,13 +24,13 @@ const SearchBarModule = () => {
 
     const searchChangeHandler = event => {
         setSearch(event.target.value);
-    };
+    }
 
     const searchPressHandler = event => {
         if (event.key === 'Enter' || event.keyCode === 13) {
             router.push("/search" + '?' + createQueryString('key', search))
         }
-    };
+    }
 
     return (
         <div className="sb-group-input sb-group-with-btn">

@@ -1,4 +1,4 @@
-import React from "react";
+
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
@@ -31,5 +31,5 @@ const About2 = () => {
       <CallToActionSection />
     </>
   );
-};
+}
 export default About2;

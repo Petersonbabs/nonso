@@ -1,4 +1,4 @@
-import React from "react";
+
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
@@ -32,5 +32,5 @@ const Home1 = () => {
       <CallToActionTwoSection />
     </>
   );
-};
+}
 export default Home1;

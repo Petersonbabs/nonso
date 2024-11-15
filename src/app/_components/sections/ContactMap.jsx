@@ -22,6 +22,6 @@ const ContactMapSection = () => {
         {/* map end */}
     </>
   );
-};
+}
 
 export default ContactMapSection;

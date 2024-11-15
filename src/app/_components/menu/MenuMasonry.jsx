@@ -55,6 +55,6 @@ const MenuMasonry = ({ categories, noImage, columns }) => {
         </div>
       </>
     );
-};
+}
 export default MenuMasonry;
   

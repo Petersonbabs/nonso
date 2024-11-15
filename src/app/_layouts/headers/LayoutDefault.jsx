@@ -19,7 +19,7 @@ const DefaultHeader = () => {
 
   const isPathActive = (path) => {
     return (asPath.endsWith(path) == 1 && path !== "/") || asPath === path;
-  };
+  }
 
   const handleSubMenuClick = (index, e) => {
     if (window !== undefined) {
@@ -28,7 +28,7 @@ const DefaultHeader = () => {
         setOpenSubMenu(openSubMenu === index ? false : index);
       }
     }
-  };
+  }
 
   useEffect(() => {
     // close mobile menu
@@ -145,5 +145,5 @@ const DefaultHeader = () => {
       {/* top bar end */}
     </>
   );
-};
+}
 export default DefaultHeader;

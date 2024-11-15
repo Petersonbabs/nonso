@@ -24,5 +24,5 @@ const BlogItem = ({ item, vertical, popular }) => {
       </Link>
     </>
   );
-};
+}
 export default BlogItem;

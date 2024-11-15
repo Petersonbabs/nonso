@@ -24,6 +24,6 @@ const ContactInfoSection = () => {
         {/* contact info end */}
     </>
   );
-};
+}
 
 export default ContactInfoSection;

@@ -31,6 +31,6 @@ const ProductsGrid = ({ items, columns }) => {
       </div>
     </>
   );
-};
+}
 export default ProductsGrid;
   

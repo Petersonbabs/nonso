@@ -36,5 +36,5 @@ const ProductImage = ({ src, alt, badge }) => {
       </div>
     </>
   );
-};
+}
 export default ProductImage;

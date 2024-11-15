@@ -42,7 +42,7 @@ const MenuFiltered = ({ categories, noImage, columns }) => {
                 filter.classList.remove("sb-active");
             }
         });
-    };
+    }
 
     var columnsClass = '';
   
@@ -83,6 +83,6 @@ const MenuFiltered = ({ categories, noImage, columns }) => {
         </div>
       </>
     );
-};
+}
 export default MenuFiltered;
   

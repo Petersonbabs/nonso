@@ -57,7 +57,7 @@ async function Blog() {
       <PopularPosts posts={populars} />
     </>
   );
-};
+}
 export default Blog;
 
 async function getAllPupulars() {

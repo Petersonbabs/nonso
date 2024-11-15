@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 import CartData from "@data/cart.json";
@@ -98,5 +98,5 @@ const Cart = () => {
       {/* cart end */}
     </>
   );
-};
+}
 export default Cart;

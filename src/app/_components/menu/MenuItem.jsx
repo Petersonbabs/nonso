@@ -50,5 +50,5 @@ const MenuItem = ({ item, index, noImage, marginBottom }) => {
       />
     </>
   );
-};
+}
 export default MenuItem;

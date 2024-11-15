@@ -61,6 +61,6 @@ const CategoriesSection = ({ heading = 1, paddingTop = 0, type = 1, columns }) =
         {/* categories end */}
     </>
   );
-};
+}
 
 export default CategoriesSection;

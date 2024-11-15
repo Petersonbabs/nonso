@@ -22,5 +22,5 @@ const ReviewItem = ({ item, index, marginBottom }) => {
       </div>
     </>
   );
-};
+}
 export default ReviewItem;

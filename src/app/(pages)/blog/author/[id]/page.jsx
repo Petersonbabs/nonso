@@ -61,7 +61,7 @@ async function BlogAuthor( { params } ) {
       <PopularPosts posts={populars} />
     </>
   );
-};
+}
 export default BlogAuthor;
 
 export async function generateStaticParams() {

@@ -15,8 +15,8 @@ export const mapboxInit = () => {
       center: [AppData.settings.mapbox.long, AppData.settings.mapbox.lat],
       zoom: AppData.settings.mapbox.zoom
     });
-    var marker = new mapboxgl.Marker()
-      .setLngLat([AppData.settings.mapbox.long, AppData.settings.mapbox.lat])
-      .addTo(map);
+    // var marker = new mapboxgl.Marker()
+      // .setLngLat([AppData.settings.mapbox.long, AppData.settings.mapbox.lat])
+      // .addTo(map);
   }
 }

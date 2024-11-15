@@ -53,6 +53,6 @@ const CallToActionTwoSection = ( { bg } ) => {
         {/* call to action end */}
     </>
   );
-};
+}
 
 export default CallToActionTwoSection;

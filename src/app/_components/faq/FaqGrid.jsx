@@ -19,5 +19,5 @@ const FaqGrid = ({ items, categoryKey }) => {
       </div>
     </>
   );
-};
+}
 export default FaqGrid;

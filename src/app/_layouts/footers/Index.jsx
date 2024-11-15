@@ -9,5 +9,5 @@ const Footer = ({ layout }) => {
     default:
       return <FooterLayoutDefault />;
   }
-};
+}
 export default Footer;

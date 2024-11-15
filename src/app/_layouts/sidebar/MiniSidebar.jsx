@@ -1,7 +1,5 @@
 import AppData from "@data/app.json";
-import Link from "next/link";
 
-import PostsData from "@data/.json/posts";
 
 const MiniSidebar = () => {
     return (
@@ -49,5 +47,5 @@ const MiniSidebar = () => {
             </div>
         </>
     );
-};
+}
 export default MiniSidebar;

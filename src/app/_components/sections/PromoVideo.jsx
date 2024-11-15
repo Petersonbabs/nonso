@@ -53,6 +53,6 @@ const PromoVideoSection = () => {
         {/* video end */}
     </>
   );
-};
+}
 
 export default PromoVideoSection;

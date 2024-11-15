@@ -13,5 +13,5 @@ const Header = ({ layout }) => {
         <HeaderLayoutDefault />
       );
   }
-};
+}
 export default Header;

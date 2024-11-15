@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 
@@ -80,5 +80,5 @@ const Reservation = () => {
       <ContactMapSection />
     </>
   );
-};
+}
 export default Reservation;

@@ -60,5 +60,5 @@ const NotFound = () => {
       {/* dynamic content end */}
     </>
   );
-};
+}
 export default NotFound;

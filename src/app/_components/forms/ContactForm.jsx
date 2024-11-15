@@ -10,7 +10,7 @@ const ContactForm = () => {
         <Formik
         initialValues = {{ email: '', name: '', message: '' }}
         validate = { values => {
-            const errors = {};
+            const errors = {}
             if (!values.email) {
                 errors.email = 'Required';
             } else if (
@@ -121,5 +121,5 @@ const ContactForm = () => {
         {/* contact form end */}
     </>
   );
-};
+}
 export default ContactForm;

@@ -43,6 +43,6 @@ const PaginatedBlogPosts = ({ items, columns }) => {
       </div>
     </>
   );
-};
+}
 export default PaginatedBlogPosts;
   

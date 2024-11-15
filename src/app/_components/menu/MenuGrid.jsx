@@ -27,6 +27,6 @@ const MenuGrid = ({ items, columns }) => {
       </div>
     </>
   );
-};
+}
 export default MenuGrid;
   

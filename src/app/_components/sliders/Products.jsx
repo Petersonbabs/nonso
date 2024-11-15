@@ -94,5 +94,5 @@ const ProductsSlider = ( {items, title, description, button = {}, slidesPerView,
     {/* short menu end */}
     </>
   );
-};
+}
 export default ProductsSlider;

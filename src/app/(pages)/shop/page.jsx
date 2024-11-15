@@ -1,11 +1,11 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 import ProductsData from "@data/products.json";
 
 import PageBanner from "@components/PageBanner";
 import ProductsGrid from "@components/products/ProductsGrid";
-import PromoSection from "@components/sections/Promo";
+// import PromoSection from "@components/sections/Promo";
 
 export const metadata = {
   title: {
@@ -43,5 +43,5 @@ const Products = () => {
       {/* <PromoSection /> */}
     </>
   );
-};
+}
 export default Products;

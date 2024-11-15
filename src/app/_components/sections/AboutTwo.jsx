@@ -43,6 +43,6 @@ const AboutTwoSection = () => {
             {/* About text end */}
         </>
     );
-};
+}
 
 export default AboutTwoSection;

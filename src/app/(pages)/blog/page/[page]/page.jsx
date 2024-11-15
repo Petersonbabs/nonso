@@ -58,7 +58,7 @@ async function BlogPage( { params } ) {
       <PopularPosts posts={populars} />
     </>
   );
-};
+}
 export default BlogPage;
 
 export async function generateStaticParams() {

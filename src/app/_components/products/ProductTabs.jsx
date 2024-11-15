@@ -41,7 +41,7 @@ const ProductTabs = ({items, active}) => {
               filter.classList.remove("sb-active");
           }
       });
-  };
+  }
 
   return (
     <>   
@@ -54,5 +54,5 @@ const ProductTabs = ({items, active}) => {
       {/* filter end */}
     </>
   );
-};
+}
 export default ProductTabs;

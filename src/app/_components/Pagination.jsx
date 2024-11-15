@@ -29,5 +29,5 @@ const Pagination = ({ currentPage, totalItems, perPage, renderPageLink }) => {
         {/* pagination end */}
         </>
     );
-  };
+  }
   export default Pagination;

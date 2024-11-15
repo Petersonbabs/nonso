@@ -1,9 +1,9 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 
 import ContactInfoSection from "@components/sections/ContactInfo";
-import ContactMapSection from "@components/sections/ContactMap";
+// import ContactMapSection from "@components/sections/ContactMap";
 import ContactForm from "@components/forms/ContactForm";
 
 import Link from "next/link";
@@ -13,7 +13,7 @@ export const metadata = {
     default: "Contact",
   },
   description: AppData.settings.siteDescription,
-};
+}
 
 const Contact = () => {
   return (
@@ -108,5 +108,5 @@ const Contact = () => {
       {/* <ContactMapSection /> */}
     </>
   );
-};
+}
 export default Contact;

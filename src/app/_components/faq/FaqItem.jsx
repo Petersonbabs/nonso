@@ -14,5 +14,5 @@ const FaqItem = ({ item, key, categoryKey }) => {
         <div className="sb-answer sb-text" dangerouslySetInnerHTML={{__html : item.text }} />
     </li>
   );
-};
+}
 export default FaqItem;

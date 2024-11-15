@@ -53,6 +53,6 @@ const CallToActionThreeSection = ( { bg } ) => {
         {/* call to action end */}
     </>
   );
-};
+}
 
 export default CallToActionThreeSection;

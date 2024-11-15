@@ -54,5 +54,5 @@ const Layouts = ({
       </body>
     </html>
   );
-};
+}
 export default Layouts;

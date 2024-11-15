@@ -47,6 +47,6 @@ const PopularPostsSlider = ( { posts } ) => {
             {/* popular end */}
         </>
     );
-};
+}
 
 export default PopularPostsSlider;

@@ -17,5 +17,5 @@ const ScrollbarProgressModule = () => {
             <div className="sb-load"></div>
         </>
     );
-};
+}
 export default ScrollbarProgressModule;

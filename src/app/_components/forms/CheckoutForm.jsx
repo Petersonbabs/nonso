@@ -10,7 +10,7 @@ const CheckoutForm = () => {
         <Formik
         initialValues = {{ firstname: '', lastname: '', email: '', tel: '', company: '', country: '', city: '', state: '', address: '', postcode: '', message: '', payment_method: 1 }}
         validate = { values => {
-            const errors = {};
+            const errors = {}
             if (!values.email) {
                 errors.email = 'Required';
             } else if (
@@ -279,5 +279,5 @@ const CheckoutForm = () => {
         {/* contact form end */}
     </>
   );
-};
+}
 export default CheckoutForm;

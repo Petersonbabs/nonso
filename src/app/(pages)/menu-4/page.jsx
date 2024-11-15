@@ -1,4 +1,4 @@
-import React from "react";
+
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
@@ -35,5 +35,5 @@ const Menu4 = () => {
       <PromoSection />
     </>
   );
-};
+}
 export default Menu4;

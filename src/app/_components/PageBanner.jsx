@@ -76,5 +76,5 @@ const PageBanner = ({ pageTitle, breadTitle, description, type }) => {
       {/* banner end */}
     </>
   );
-};
+}
 export default PageBanner;

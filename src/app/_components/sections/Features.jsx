@@ -24,6 +24,6 @@ const FeaturesOneSection = () => {
         {/* features end */}
     </>
   );
-};
+}
 
 export default FeaturesOneSection;

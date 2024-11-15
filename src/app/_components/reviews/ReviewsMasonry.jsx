@@ -34,6 +34,6 @@ const ReviewsMasonry = ({ items }) => {
         </div>
       </>
     );
-};
+}
 export default ReviewsMasonry;
   

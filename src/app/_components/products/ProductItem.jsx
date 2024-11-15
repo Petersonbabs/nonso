@@ -5,13 +5,14 @@ import { useState, useEffect } from "react";
 
 import CartData from "@data/cart.json";
 
-const ProductItem = ({ item, index, marginBottom, moreType }) => {
+const ProductItem = ({ item,  marginBottom, moreType }) => {
   const [cartTotal, setCartTotal] = useState(CartData.total);
   const [quantity, setQuantity] = useState(1);
 
   useEffect(() => {
     const cartNumberEl = document.querySelector('.sb-cart-number');
     cartNumberEl.innerHTML = cartTotal;
+    setQuantity
   }, [cartTotal]);
 
   const addToCart = (e) => {
@@ -73,5 +74,5 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
       </div>
     </>
   );
-};
+}
 export default ProductItem;

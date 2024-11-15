@@ -52,6 +52,6 @@ const TeamSection = ( { items } ) => {
         {/* team end */}
     </>
   );
-};
+}
 
 export default TeamSection;

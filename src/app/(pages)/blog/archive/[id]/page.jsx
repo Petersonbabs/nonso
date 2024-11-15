@@ -61,7 +61,7 @@ async function BlogArchive( { params } ) {
       <PopularPosts posts={populars} />
     </>
   );
-};
+}
 export default BlogArchive;
 
 export async function _generateStaticParams() {

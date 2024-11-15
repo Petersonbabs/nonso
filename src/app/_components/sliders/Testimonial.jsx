@@ -74,5 +74,5 @@ const TestimonialSlider = () => {
       {/* revievs end */}
     </>
   );
-};
+}
 export default TestimonialSlider;

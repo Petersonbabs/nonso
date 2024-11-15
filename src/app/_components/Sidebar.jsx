@@ -71,7 +71,7 @@ async function Sidebar() {
         {/* sidebar end */}
     </>
   );
-};
+}
 export default Sidebar;
 
 async function getAllArchives() {

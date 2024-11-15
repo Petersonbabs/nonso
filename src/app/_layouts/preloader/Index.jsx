@@ -16,5 +16,5 @@ const PreloaderModule = () => {
         {/* preloader end */}
         </>
     );
-};
+}
 export default PreloaderModule;

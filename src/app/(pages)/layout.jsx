@@ -17,5 +17,5 @@ const PagesLayouts = ({
       {/* dynamic content end */}
     </>
   );
-};
+}
 export default PagesLayouts;

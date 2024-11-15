@@ -34,5 +34,5 @@ const GalleryItem = ({ item, index, marginBottom }) => {
       />
     </>
   );
-};
+}
 export default GalleryItem;

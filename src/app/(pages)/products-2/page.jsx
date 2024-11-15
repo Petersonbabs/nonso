@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 import ProductsData from "@data/products.json";
@@ -43,5 +43,5 @@ const Products = () => {
       <CallToActionThreeSection />
     </>
   );
-};
+}
 export default Products;

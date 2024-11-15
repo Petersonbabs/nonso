@@ -69,6 +69,6 @@ const PromoSection = () => {
         </section>
     </>
   );
-};
+}
 
 export default PromoSection;

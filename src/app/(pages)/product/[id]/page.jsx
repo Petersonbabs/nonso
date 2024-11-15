@@ -1,4 +1,4 @@
-import React from "react";
+
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
@@ -66,7 +66,7 @@ const Products = () => {
         </ul>
       </>
     );
-  };
+  }
 
   async function ProductDescription() {
     return (
@@ -77,7 +77,7 @@ const Products = () => {
         </div>
       </>
     );
-  };
+  }
 
   async function ProductReviews() {
     const ReviewsData = [
@@ -106,7 +106,7 @@ const Products = () => {
           ))}
         </div>
     );
-  };
+  }
 
   const tabs = [
     {
@@ -219,5 +219,5 @@ const Products = () => {
       <CallToActionTwoSection />
     </>
   );
-};
+}
 export default Products;

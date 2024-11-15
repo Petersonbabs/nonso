@@ -61,7 +61,7 @@ async function BlogTag( { params } ) {
       <PopularPosts posts={populars} />
     </>
   );
-};
+}
 export default BlogTag;
 
 export async function generateStaticParams() {

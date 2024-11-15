@@ -10,7 +10,7 @@ const ReservationForm = () => {
         <Formik
         initialValues = {{ name: '', email: '', tel: '', date: '', person: 1 }}
         validate = { values => {
-            const errors = {};
+            const errors = {}
             if (!values.email) {
                 errors.email = 'Required';
             } else if (
@@ -163,5 +163,5 @@ const ReservationForm = () => {
         {/* contact form end */}
     </>
   );
-};
+}
 export default ReservationForm;

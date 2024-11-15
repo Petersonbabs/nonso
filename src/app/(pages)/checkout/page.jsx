@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 import CartData from "@data/cart.json";
@@ -39,7 +39,7 @@ const Checkout = () => {
                     </div>
 
                     {CartData.items.map((item, key) => (
-                    <div className="sb-cart-item">
+                    <div className="sb-cart-item" key={key}>
                       <div className="row align-items-center">
                         <div className="col-lg-9">
                           <Link className="sb-product" href="/product">
@@ -91,5 +91,5 @@ const Checkout = () => {
       {/* checkout end */}
     </>
   );
-};
+}
 export default Checkout;

@@ -1,4 +1,4 @@
-import React from "react";
+
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
@@ -46,5 +46,5 @@ const Reviews1 = () => {
       <CallToActionTwoSection />
     </>
   );
-};
+}
 export default Reviews1;

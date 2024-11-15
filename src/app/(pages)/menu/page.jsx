@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import AppData from "@data/app.json";
 import MenuData from "@data/menu.json";
@@ -83,5 +83,5 @@ const Menu1 = () => {
       <PromoSection />
     </>
   );
-};
+}
 export default Menu1;
