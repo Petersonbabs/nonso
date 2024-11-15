@@ -4,7 +4,6 @@ import AppData from "@data/app.json";
 
 import PageBanner from "@components/PageBanner";
 import Sidebar from "@components/Sidebar";
-import BlogFiltered from '@components/blog/BlogFiltered';
 
 import { generateJsonPostsData } from "@library/posts";
 
@@ -41,12 +40,12 @@ async function Search() {
                 <h2 className="sb-cate-title sb-mb-30">Search <span>results</span></h2>
                 <p className="sb-text">Consectetur numquam poro nemo veniam<br/>eligendi rem adipisci quo modi.</p>
               </div>
-              <Suspense fallback={<div>Loading...</div>}>
+              {/* <Suspense fallback={<div>Loading...</div>}>
                 <BlogFiltered
                   items={posts}
                   columns={2}
                 />
-              </Suspense>
+              </Suspense> */}
             </div>
             <div className="col-lg-4">
               <div className="sb-sidebar-frame sb-pad-type-1 sb-sticky" data-margin-top="120">

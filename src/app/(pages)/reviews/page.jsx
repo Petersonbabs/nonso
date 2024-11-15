@@ -6,7 +6,6 @@ import ReviewsData from "@data/reviews.json";
 
 import PageBanner from "@components/PageBanner";
 import CallToActionSection from "@components/sections/CallToAction";
-import CallToActionSection from "../../_components/sections/CallToAction";
 
 const ReviewsMasonry = dynamic( () => import("@components/reviews/ReviewsMasonry"), { ssr: false } );
 
